@@ -1,1 +1,0 @@
-This code is a basic airline reservation system implemented using C. It is structured around a simple menu-driven interface and leverages linked lists to manage passenger data dynamically. The code includes functionalities for reserving seats, canceling reservations, displaying all booked seats, and saving the data to a file.
